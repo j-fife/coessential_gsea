@@ -9,7 +9,7 @@ cd ./src/
 ```python 
 from gsea import CoessentialGSEA
 
-input_file = "../data/example_data.csv"
+input_file = "example_data.csv"
 c = CoessentialGSEA(input_file)
 c.run(d = 0.2, permutation_num = 10000)
 ```
