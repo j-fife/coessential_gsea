@@ -6,8 +6,11 @@
              
 ```bash
 git clone https://github.com/j-fife/coessential_gsea.git .
+pip install -r requirements.txt
 cd ./src/
 ```
+
+
 
 ### Usage
 
