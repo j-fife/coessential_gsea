@@ -2,7 +2,7 @@
 
  
  
-### clone the repositort
+### Clone the repositort
              
 ```bash
 git clone https://github.com/j-fife/coessential_gsea.git .
@@ -12,7 +12,7 @@ cd ./src/
 ### Usage
 
 ```python 
-from gsea import CoessentialGSEA
+from gsea_tools import CoessentialGSEA
 
 input_file = "example_data.csv"
 c = CoessentialGSEA(input_file)
