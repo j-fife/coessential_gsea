@@ -6,7 +6,7 @@ git clone https://github.com/j-fife/coessential_gsea.git .
 cd ./src/
 ```
 
-```pyhton 
+```python 
 from gsea import CoessentialGSEA
 
 input_file = "../data/example_data.csv"
